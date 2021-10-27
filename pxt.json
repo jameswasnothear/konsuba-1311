@@ -1,5 +1,5 @@
 {
-    "name": "konsuba 1.30.3",
+    "name": "konsuba 1.31.1",
     "description": "",
     "dependencies": {
         "device": "*",
@@ -25,7 +25,8 @@
         "images.g.ts",
         "tilemap.g.jres",
         "tilemap.g.ts",
-        "main.py"
+        "main.py",
+        null
     ],
     "testFiles": [
         "test.ts"
